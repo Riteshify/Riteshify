@@ -1,6 +1,7 @@
 ![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)
 <h1 align="center">Hi 👋, I'm Ritesh</h1>
-<h3 align="center">I don't play by the Rules.. But am Sure I'm going to find my WAY 🤗</h3>
+<h2 align="center">Full-Stack JavaScript Developer</h2>
+<h3 align="center">I don't play by the Rules.. But am sure I'm going to find my WAY 🔥</h3>
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/ExemplaryFairFeline-size_restricted.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshify&label=Profile%20views&color=0e75b6&style=flat" alt="riteshify" /> </p>
